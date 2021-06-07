@@ -1,0 +1,4 @@
+String pn,int pc,double pr
+pname=pn;
+pcode=pc;
+price=pr;
